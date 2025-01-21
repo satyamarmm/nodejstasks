@@ -1,5 +1,5 @@
 
-let models=require("../models/model3.js")
+let models=require("../model3/model3.js")
 
 
 exports.getUsers=async(req,res)=>{
